@@ -1,5 +1,11 @@
 'use strict';
 
+/**
+ *
+ * Creates an object with all actions for the event
+ * @module eventActions
+ * */
+
 const actions = {
     READ: 'READ',
     WRITE: 'WRITE',

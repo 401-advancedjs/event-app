@@ -1,5 +1,11 @@
 'use strict';
 
+/**
+ * Runs the app
+ * @module app.js
+ *
+ * */
+
 const eventEmitter = require('./event-emitter');
 const eventActions = require('./eventActions.js');
 
